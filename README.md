@@ -37,7 +37,6 @@ The processed data can be downloaded from [link](???) . Please unzip **(in linux
 - **dependency.txt:**  The file of dependency parsing result.
 - **constituency.txt**:  The file of constituency parsing result.
 - **pytorch_model.bin/pytorch_model_L2_768.bin**: Full Bert and mini Bert.
-- **freebase-filter.gz**:  Filterd FreeBase knowledge graph.
 
 ## **Save Freebase dump in Your Machine**
 
