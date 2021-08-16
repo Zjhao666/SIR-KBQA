@@ -1,6 +1,6 @@
 # StrucATT_KBQA
 
-This is the code for the paper:  **Improving Complex Knowledge Base Question Answering\\by Learning Question Structural Information**
+This is the code for the paper:  xxxxxx
 
 If you find this code useful in your research, please cite
 
