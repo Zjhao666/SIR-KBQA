@@ -38,7 +38,6 @@ The processed data can be downloaded from [link](???) . Please unzip **(in linux
 - **constituency.txt**:  The file of constituency parsing result.
 - **pytorch_model.bin/pytorch_model_L2_768.bin**: Full Bert and mini Bert.
 - **freebase-filter.gz**:  Filterd FreeBase knowledge graph.
-- **stanford-corenlp-latest.zip**: Stanford NLP toolbox.
 
 ## **Save Freebase dump in Your Machine**
 
