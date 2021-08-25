@@ -1,4 +1,4 @@
-# StrucATT_KBQA
+# StrucATT-KBQA
 
 This is the code for the paper:  xxxxxx
 
@@ -19,7 +19,7 @@ All codes were developed and tested in the following environment.
 Download the code and data:
 
 ```
-git clone https://github.com/Zjhao666/StrucATT_KBQA.git
+git clone https://github.com/Zjhao666/StrucATT-KBQA.git
 pip install requirements.txt
 ```
 
